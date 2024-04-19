@@ -9,7 +9,9 @@ Results
 For the Logistic Regression model:
 
 -Accuracy: The model had an accuracy score of 0.99.
+
 -Precision: The precision score was 1.00 for classifying low-risk loans (0) and 0.85 for high-risk loans (1). 
+
 -Recall: The recall score was 0.99 for low-risk loans (0) and 0.91 for high-risk loans (1).
 
 Summary
